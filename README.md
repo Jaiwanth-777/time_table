@@ -37,7 +37,7 @@ Execute the program using runserver command.
     </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SCHEDULE OF ALL COURSES - Tharun.A (212224100060)</b></caption>
+<caption><b>SCHEDULE OF ALL COURSES - Jaiwanth.M (212224040125)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
