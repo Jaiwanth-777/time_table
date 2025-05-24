@@ -33,7 +33,7 @@ PROGRAM
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="5" border="7" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - VIGNESHWARAN.P (24900068)</b></caption>
+<caption><b>SLOT TIME TABLE - Jaiwanth.M (212224040125)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
