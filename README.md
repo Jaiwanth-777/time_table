@@ -1,4 +1,4 @@
-+++++Ex03 Time Table
+Ex03 Time Table
 Date:# Ex03 Time Table
 # Date:
 # AIM
