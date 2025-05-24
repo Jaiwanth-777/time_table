@@ -254,7 +254,7 @@ PROGRAM
 </html>
 
 OUTPUT
-Screenshot 2025-03-31 103052
+Screenshot 2
 
 RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.# Ex03 Time Table
